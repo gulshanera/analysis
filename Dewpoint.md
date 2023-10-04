@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Load the data
-data_df = pd.read_excel("D:/air quality/OneDrive - design.iitd.ac.in/Desktop/Jodhpur_TB/Jodhpur_original/Raw_data/all_raw_new_hourly_shifted.xlsx")
+data_df = pd.read_excel("D:/air quality/df.xlsx")
 
 # Constants for dew point calculation
 a = 17.27
